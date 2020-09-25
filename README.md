@@ -1,14 +1,5 @@
 ### I am Guilherme Almeida 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme1994/https://www.linkedin.com/in/guilherme1994/)](https://www.linkedin.com/in/guilherme1994/)
-
-<!-- - 🔭 I’m currently working on be better programmer studying 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him -->
-
-<br>
-
 **📌 Tech stacks currently using** <br>
 <br>
 <code><a href="https://dotnet.microsoft.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
@@ -39,4 +30,4 @@
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <br>
 
-[![Guiphb's github stats](https://github-readme-stats.vercel.app/api?username=Guiphb&show_icons=true)](https://github.com/Guiphb)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme1994/https://www.linkedin.com/in/guilherme1994/)](https://www.linkedin.com/in/guilherme1994/)
