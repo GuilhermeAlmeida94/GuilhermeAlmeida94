@@ -2,8 +2,8 @@
 
 **📌 Tech stacks currently using** <br>
 <br>
-<code><a href="https://dotnet.microsoft.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <br>
 
 **🛠️ Tools currently using** <br>
@@ -15,6 +15,8 @@
 
 **👨🏻‍💻 Already work with** <br>
 <br>
+<code><a href="https://dotnet.microsoft.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://www.r-project.org/about.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
@@ -24,10 +26,8 @@
 
 **📚 Looking forward to learn** <br>
 <br>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme1994/https://www.linkedin.com/in/guilherme1994/)](https://www.linkedin.com/in/guilherme1994/)
