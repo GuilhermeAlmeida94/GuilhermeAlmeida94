@@ -1,6 +1,6 @@
 ### Hi, I'm Guilherme Almeida 👋
 
-Senior Software Engineer at Dell Technologies with 5+ years of full-stack development experience. I lead micro-frontend architecture and work extensively with distributed systems using .NET, Redis, and RabbitMQ. Currently helping multiple teams build scalable, maintainable applications with modern frameworks and design patterns.
+Senior Software Engineer with 5+ years of full-stack development experience. Currently working with .NET for backend services and Angular with a proprietary component library for frontend—all part of the same application. I work extensively with distributed systems using Redis for rate limiting and RabbitMQ for request processing across multiple instances.
 
 <br>
 
@@ -15,6 +15,7 @@ Senior Software Engineer at Dell Technologies with 5+ years of full-stack develo
 **⚙️ Backend & Infrastructure** <br>
 <br>
 <a href="https://dotnet.microsoft.com" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white"></a>
 <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"></a>
 <br>
@@ -29,7 +30,7 @@ Senior Software Engineer at Dell Technologies with 5+ years of full-stack develo
 
 **💡 Expertise** <br>
 <br>
-Full-stack development with focus on micro-frontends, distributed systems, and scalable architecture. Experienced in implementing rate limiting with Redis for AI APIs across multiple instances and using RabbitMQ for request distribution and processing. Strong in clean code, SOLID principles, and design patterns.
+Full-stack development combining .NET backend with Angular frontend in the same application. Specialized in distributed systems architecture, implementing rate limiting with Redis for AI APIs, and using RabbitMQ to handle request distribution across multiple instances. Strong foundation in clean code, SOLID principles, and design patterns.
 <br>
 
 **🔗 Connect**
