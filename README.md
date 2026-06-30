@@ -1,15 +1,22 @@
 ### Hi, I'm Guilherme Almeida 👋
 
-Senior Software Engineer at Dell Technologies with 5+ years specializing in Angular development. I lead micro-frontend architecture and help multiple teams build scalable, maintainable applications using modern JavaScript frameworks and design patterns.
+Senior Software Engineer at Dell Technologies with 5+ years of full-stack development experience. I lead micro-frontend architecture and work extensively with distributed systems using .NET, Redis, and RabbitMQ. Currently helping multiple teams build scalable, maintainable applications with modern frameworks and design patterns.
 
 <br>
 
-**🔧 Current Focus** <br>
+**🔧 Frontend** <br>
 <br>
 <a href="https://angular.io/" target="_blank"><img alt="Angular 18" src="https://img.shields.io/badge/Angular%2018-DD0031?style=flat-square&logo=angular&logoColor=white"></a>
 <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
 <a href="https://rxjs.dev/" target="_blank"><img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"></a>
 <a href="https://ngrx.io/" target="_blank"><img alt="NgRx" src="https://img.shields.io/badge/NgRx-764ABC?style=flat-square&logo=redux&logoColor=white"></a>
+<br>
+
+**⚙️ Backend & Infrastructure** <br>
+<br>
+<a href="https://dotnet.microsoft.com" target="_blank"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"></a>
+<a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"></a>
 <br>
 
 **🛠️ Tools & Testing** <br>
@@ -22,7 +29,7 @@ Senior Software Engineer at Dell Technologies with 5+ years specializing in Angu
 
 **💡 Expertise** <br>
 <br>
-Micro-frontends architecture, state management, clean code, SOLID principles, and design patterns. I specialize in building performant Angular applications with CSS optimization and have successfully led architecture transitions across multiple teams.
+Full-stack development with focus on micro-frontends, distributed systems, and scalable architecture. Experienced in implementing rate limiting with Redis for AI APIs across multiple instances and using RabbitMQ for request distribution and processing. Strong in clean code, SOLID principles, and design patterns.
 <br>
 
 **🔗 Connect**
